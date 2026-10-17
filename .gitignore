@@ -1,0 +1,30 @@
+# ---- 构建输出（体积很大，绝不入库）----
+bin/
+obj/
+pub/
+stage/
+outputs/
+
+# ---- 打包产物 ----
+*.zip
+*.exe
+*.pdb
+*.nupkg
+
+# ---- 程序运行时在 exe 同目录生成的状态文件 ----
+theme.txt
+view.txt
+sidebar.txt
+icon_map.json
+
+# ---- 本机游戏与图标资源（含第三方版权内容，不入库）----
+games/
+icons/
+
+# ---- 编辑器 / 系统 ----
+.vs/
+.idea/
+*.user
+*.suo
+Thumbs.db
+Desktop.ini

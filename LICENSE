@@ -1,0 +1,58 @@
+版权所有 (c) 2026 <水星海葵>
+
+本软件及其源代码、文档、图标等全部内容（以下统称"本软件"）的著作权归作者所有。
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+【允许】在下列范围内，任何人可以免费使用本软件
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. 个人、非商业目的地下载、安装、运行本软件；
+2. 出于个人学习、研究目的阅读源代码，并为个人使用而修改源代码
+   （修改后的版本仅限自己使用，不得分发）；
+3. 在不作任何修改的前提下，分享本软件的官方发布页面链接。
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+【禁止】未经作者事先书面许可，不得实施下列行为
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. 商业用途：包括但不限于销售、出租、收费服务、捆绑销售，在商业产品或
+   商业服务中使用本软件或其任何部分，或以本软件直接、间接获取经济利益；
+2. 再发布、分发、转让、再许可本软件，或分发修改后的版本；
+3. 移除、遮盖或篡改本软件中的版权声明与许可声明。
+
+本软件按"现状"提供，不附带任何明示或默示的担保，包括但不限于对适销性、
+特定用途适用性的担保。作者不对因使用或无法使用本软件而产生的任何直接或
+间接损失承担责任。
+
+如需商业授权或其他许可，请通过本仓库的 Issue 联系作者。
+
+────────────────────────────────────────────────────────────────────────────
+
+Copyright (c) 2026 <水星海葵>
+
+This software, including its source code, documentation and icons (the
+"Software"), is protected by copyright. The copyright holder grants you the
+following permission, free of charge:
+
+【PERMITTED】
+1. To download, install and run the Software for personal, non-commercial use;
+2. To read the source code and modify it for personal study or research,
+   provided that modified versions are kept for your own use and are NOT
+   distributed;
+3. To share a link to the official release page, without modification.
+
+【PROHIBITED】Without the prior written permission of the copyright holder,
+you may NOT:
+1. Use the Software, in whole or in part, for any commercial purpose,
+   including but not limited to selling, renting, charging for services,
+   bundling, or using it in a commercial product or service;
+2. Redistribute, distribute, transfer or sublicense the Software, or distribute
+   modified versions of it;
+3. Remove, obscure or alter any copyright or license notice in the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY AND
+FITNESS FOR A PARTICULAR PURPOSE. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY
+CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM THE USE OF THE SOFTWARE.
+
+For commercial licensing, please contact the author via an Issue in this repository.
